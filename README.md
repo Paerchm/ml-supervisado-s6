@@ -1,11 +1,7 @@
 # ML Supervisado — Sesión 6: Evaluación y comparación de algoritmos
 
-Proyecto académico que cumple la rúbrica de `Descripción.docx`: **evaluar y comparar al menos
-dos algoritmos de aprendizaje supervisado para cada uno de dos casos de negocio**, justificando
-la selección final —técnica, estratégica y éticamente— con evidencia empírica.
-
-Los dos ejemplos de la sesión (Walmart Sales y Churn) fueron actualizados con todas las
-secciones sugeridas en la descripción de la actividad.
+Realizadores 
+Pablo Ernesto Chévez Mejía
 
 ## Estructura del proyecto
 
