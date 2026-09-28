@@ -26,22 +26,6 @@ ml-supervisado-s6/
     └── caso_a_churn.md / caso_b_ventas.md
 ```
 
-## Cómo reproducir
-
-```bash
-# 1. Entorno
-pip install pandas numpy scipy matplotlib seaborn statsmodels scikit-learn nbformat nbclient ipykernel
-
-# 2. Datos simulados (semilla 42 → mismo resultado)
-python scripts/gen_data.py
-
-# 3. Los notebooks ya vienen ejecutados con sus salidas; para re-ejecutarlos:
-jupyter nbconvert --to notebook --execute --inplace Caso_A_Churn_Prediccion.ipynb
-jupyter nbconvert --to notebook --execute --inplace Caso_B_Ventas_Prediccion.ipynb
-
-# 4. Documentación (Markdown para VS Code)
-#    → abrir Documentacion.md y presionar Ctrl+K V para vista previa
-```
 
 ## Los dos casos
 
